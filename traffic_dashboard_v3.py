@@ -202,7 +202,7 @@ with st.sidebar:
         </div>""", unsafe_allow_html=True)
 
     st.markdown("---")
-    st.markdown("<div style='text-align:center;padding:0.4rem 0;'><div style='font-size:0.68rem;color:#4fc3f7;font-family:IBM Plex Mono,monospace;letter-spacing:1px;'>BUILT BY</div><div style='font-size:1rem;font-family:Syne,sans-serif;font-weight:700;color:#ffffff;margin-top:0.2rem;'>Manav Shah</div><div style='font-size:0.65rem;color:#5a6a80;font-family:IBM Plex Mono,monospace;margin-top:0.2rem;letter-spacing:1px;'>ML PROJECT · 2026</div></div>", unsafe_allow_html=True)
+    st.markdown("<div style='text-align:center;padding:0.4rem 0;'><div style='font-size:0.68rem;color:#4fc3f7;font-family:IBM Plex Mono,monospace;letter-spacing:1px;'>BUILT BY</div><div style='font-size:1rem;font-family:Syne,sans-serif;font-weight:700;color:#ffffff;margin-top:0.2rem;'>Manav Shah, Manav Goyal, Meet Shah</div><div style='font-size:0.65rem;color:#5a6a80;font-family:IBM Plex Mono,monospace;margin-top:0.2rem;letter-spacing:1px;'>ML PROJECT · 2026</div></div>", unsafe_allow_html=True)
 
 # ── OVERVIEW ──────────────────────────────────────────────────────────────────
 if page == "⚡ Overview":
